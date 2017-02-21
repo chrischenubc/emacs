@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A usable emacs config
 
 This is my emacs configuration tree which originates from [that of Purcell's](https://github.com/purcell/emacs.d). But I eliminated many functions of that.
@@ -103,3 +104,7 @@ If you hit any problems, please
 3. If you still experience problems, go ahead and [file an issue](https://github.com/xyguo/emacs.d/issues).  
 
 -Xiang-Yu Guo
+=======
+# emacs
+my emacs configuration
+>>>>>>> 9efd00566b2f07299c64e39ff54e3162d07e1fe1
