@@ -1,0 +1,22 @@
+
+;; ----- smex-history -----
+(
+ help
+ shell
+ compile
+ c-mode
+ run-with-timer
+ make-face
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (c-mode . 3)
+ (make-face . 1)
+ (compile . 5)
+ (run-with-timer . 1)
+ (shell . 1)
+ (shell-mode . 1)
+ (help . 2)
+)
